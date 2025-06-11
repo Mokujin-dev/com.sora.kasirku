@@ -1,0 +1,57 @@
+Privacy Policy for Kasirku Sora
+
+Effective Date: [Insert Date]
+
+Kasirku Sora (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
+
+1. Information We Collect
+We may collect the following types of information:
+
+Personal Information: such as names, email addresses, and contact details when you register or contact support.
+
+Business Data: including sales transactions, inventory data, customer records, and store information entered by the user.
+
+Device Information: such as device ID, operating system, and usage logs to improve performance and security.
+
+2. How We Use Your Information
+We use the collected information to:
+
+Operate and maintain the functionality of the app
+
+Provide customer support and respond to inquiries
+
+Improve features and performance
+
+Generate usage reports and business insights
+
+Ensure data security and prevent unauthorized access
+
+3. Data Storage and Security
+All data is stored securely, either locally on your device or on our servers (if cloud services are used). We take appropriate measures to protect your data from loss, theft, or unauthorized access.
+
+4. Data Sharing
+We do not sell or share your personal or business data with third parties except:
+
+When required by law or legal processes
+
+With your explicit consent
+
+To trusted service providers who assist in operating the app (e.g., cloud storage), under strict confidentiality agreements
+
+5. User Control
+You have full control over your business data. You can:
+
+View, edit, or delete your data within the app
+
+Request data removal by contacting us directly at [your contact email]
+
+6. Children’s Privacy
+Kasirku Sora is not intended for use by individuals under the age of 13. We do not knowingly collect data from children.
+
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the app or on our official website. Your continued use of the app means you accept the updated terms.
+
+8. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+Email: soraitdev@gmail.com
