@@ -1,0 +1,46 @@
+Privacy Policy for Kasirku
+
+Last updated: October 04, 2025
+
+This Privacy Policy describes how Kasirku ("we", "our", or "the app") handles your information when you use our mobile application.
+
+1. Information Collection and Use
+Kasirku is designed to work offline and does not collect, store, or transmit any personal data to external servers. All data you enter into the app (including sales transactions, inventory, customer information, and business records) is stored locally on your device.
+
+2. Data Storage
+- All application data is stored locally on your device using SQLite database
+- Your data remains on your device and is not shared with us or any third parties
+- You have full control over your data and can delete it at any time by uninstalling the app or clearing app data
+
+3. Permissions
+The app may request the following permissions:
+- Camera: To scan barcodes for product identification
+- Storage: To save and export reports (Excel/PDF files)
+- Internet: For Google Mobile Ads display only (optional)
+- Network State: To check connectivity status
+
+4. Third-Party Services
+The app integrates the following third-party services:
+- Google Mobile Ads: May collect device information for ad personalization. Please refer to Google's Privacy Policy: https://policies.google.com/privacy
+- Firebase Analytics: For app usage analytics (anonymous data only)
+
+5. Data Sharing
+We do not sell, trade, or share your personal data with third parties. Your business data stays on your device.
+
+6. Security
+Since all data is stored locally on your device, we recommend:
+- Setting up device lock screen protection
+- Regular backups of important data
+- Keeping your device secure
+
+7. Children's Privacy
+This app is not intended for children under 13 years of age. We do not knowingly collect information from children.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the app or on our distribution channels.
+
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: [Your Email Address]
+
+By using Kasirku, you agree to this Privacy Policy.
